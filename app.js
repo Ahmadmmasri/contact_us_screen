@@ -57,9 +57,3 @@ app.listen(3000,(req,res)=>{
     console.log("server works well on 3000");
 })
 
-
-// Api Key
-// f7646a0f4c9d565e8d9acb580d499c6d-us1
-
-//List id
-//5c8944507c
